@@ -1,9 +1,13 @@
-package com.pharmacy_project.usuario.domain;
+package com.pharmacy_project.user.domain;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 import lombok.Data;
-@Data
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
 @Entity
 @Table(name = "USERS")
 public class User {

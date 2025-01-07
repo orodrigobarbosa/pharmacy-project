@@ -1,4 +1,4 @@
-package com.pharmacy_project.usuario.domain;
+package com.pharmacy_project.user.domain;
 
 public enum Role {
 

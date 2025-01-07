@@ -1,7 +1,7 @@
-package com.pharmacy_project.usuario.service;
+package com.pharmacy_project.user.service;
 
-import com.pharmacy_project.usuario.domain.User;
-import com.pharmacy_project.usuario.repository.UserRepository;
+import com.pharmacy_project.user.domain.User;
+import com.pharmacy_project.user.repository.UserRepository;
 import lombok.AllArgsConstructor;
 import org.hibernate.ObjectNotFoundException;
 import org.springframework.stereotype.Service;

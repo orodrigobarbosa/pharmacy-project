@@ -1,6 +1,6 @@
-package com.pharmacy_project.usuario.repository;
+package com.pharmacy_project.user.repository;
 
-import com.pharmacy_project.usuario.domain.User;
+import com.pharmacy_project.user.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
